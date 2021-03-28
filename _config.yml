@@ -14,7 +14,7 @@ author: Hojjatollah Sadeqi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "html_cv.Rmd"
+  About Me: "html_cv.md"
   #Articles: 
   Resources:
     - Articles:
