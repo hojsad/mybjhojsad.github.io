@@ -15,11 +15,13 @@ author: Hojjatollah Sadeqi
 
 navbar-links:
   About Me: "aboutme"
-  Articles: 
+  #Articles: 
   Resources:
+    - Articles:
+    - Packages:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
